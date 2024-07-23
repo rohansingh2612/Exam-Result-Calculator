@@ -4,8 +4,14 @@ A command-line tool in C for calculating exam results. Input marks for Maths, Ph
 # For Experiencing the project
 
 DOWNLOAD main.c and then run it with vscode by entering the following command in terminal:
-1. gcc main.c
-2. /a.exe 
+STEP 1:
+```bash
+gcc main.c
+```
+STEP 2:
+```bash
+/a.exe 
+```
 
 # Features:
 

@@ -1,6 +1,12 @@
 # Exam-Result-Calculator
 A command-line tool in C for calculating exam results. Input marks for Maths, Physics, Chemistry with respective maximum marks. Calculates percentages and determines pass/fail based on minimum criteria: 33% in each subject and 40% overall.
 
+# For Experiencing the project
+
+DOWNLOAD main.c and then run it with vscode by entering the following command in terminal:
+1. gcc main.c
+2. /a.exe 
+
 # Features:
 
 Input marks and maximum marks for three subjects.

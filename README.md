@@ -3,7 +3,7 @@ A command-line tool in C for calculating exam results. Input marks for Maths, Ph
 
 # For Experiencing the project
 
-DOWNLOAD main.c and then run it with vscode by entering the following command in terminal:
+DOWNLOAD `main.c` and then run it with vscode by entering the following command in terminal:
 
 STEP 1:
 ```bash
